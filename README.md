@@ -2,28 +2,10 @@
 
 # Descrição
    O projeto foi feito baseado em um projeto da escola Udemy, trata-se de um jogo de acertar as letras que estão escondidas, como se fosse um tradicional jogo de forca. o Jogador terá 5 tentativas para acertar a palavra e ir acumulando ponto.
-# Tabela de Conteúdos
-
-<!--ts-->
-   * [Inicio](#Secret Word)
-   * [Descrição](#descrição)
-   * [Tabela de Conteúdos](#tabela-de-conteúdos)
-   * [Demonstração da aplicação](#demonstração-da-aplicação)
-   * [Pré-requisitos e como rodar a aplicação](#pré-requisitos-e-como-rodar-a-aplicação)
-   * [Tecnologias utilizadas](#tecnologias-utilizadas)
-   * [Autores](#autores)
-<!--te-->
 
 # Status do Projeto
 
   🚀 Finalizado 
-
-# Demonstração da aplicação
-
-### Imagens do Projeto
-![image](https://user-images.githubusercontent.com/91707433/178161055-ae136f43-5ae8-4cac-a612-9ed68bb91888.png)
-![image](https://user-images.githubusercontent.com/91707433/178161068-34af42e5-0584-42bd-9931-8ecd6093ac21.png)
-
 
 
 # Pré-requisitos e como rodar a aplicação
